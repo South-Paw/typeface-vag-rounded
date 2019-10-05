@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'VAGRounded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('VAGRounded Thin '),
+    local('VAGRounded-Thin'),
+    url('./files/vag-rounded-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vag-rounded-100.woff') format('woff'); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: 'VAGRounded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('VAGRounded Regular '),
+    local('VAGRounded-Regular'),
+    url('./files/vag-rounded-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vag-rounded-400.woff') format('woff'); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: 'VAGRounded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('VAGRounded Bold '),
+    local('VAGRounded-Bold'),
+    url('./files/vag-rounded-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vag-rounded-700.woff') format('woff'); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: 'VAGRounded';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('VAGRounded Black '),
+    local('VAGRounded-Black'),
+    url('./files/vag-rounded-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/vag-rounded-900.woff') format('woff'); /* Modern Browsers */
+}

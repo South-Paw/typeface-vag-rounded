@@ -1,0 +1,31 @@
+{
+  "name": "@south-paw/typeface-vag-rounded",
+  "version": "1.0.0",
+  "description": "VAG Rounded typeface",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "typography",
+    "vag rounded"
+  ],
+  "homepage": "https://github.com/South-Paw/typeface-vag-bold",
+  "bugs": "https://github.com/South-Paw/typeface-vag-bold/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Alex Gabites",
+    "email": "hello@southpaw.co.nz",
+    "url": "http://southpaw.co.nz/"
+  },
+  "files": [
+    "files/*"
+  ],
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/South-Paw/typeface-vag-bold.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
