@@ -23,7 +23,7 @@ Many tools built with Webpack will work out of the box with this package such as
 To use, simply require the package in your project's entry file:
 
 ```js
-// Load Fixed System Excelsior typeface
+// Load VAG Rounded typeface
 require("@south-paw/typeface-vag-rounded");
 ```
 
@@ -34,6 +34,8 @@ body {
   font-family: "VAGRounded";
 }
 ```
+
+Package includes `100`, `400`, `700`, `900` font weights.
 
 ## Source
 
